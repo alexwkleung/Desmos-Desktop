@@ -10,6 +10,11 @@ This is a basic desktop app that wraps around the official remote hosted [Desmos
 
 Enjoy using Desmos as a standalone desktop app. There is virtually no difference between this and the website since they both use the same API to power the graphing calculator. 
 
+**Created with:**
+
+- Desmos API 
+- Electron 
+
 # Install (Direct)
 
 Go to releases and install the latest version for your architecture (x64 or arm64).
