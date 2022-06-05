@@ -10,11 +10,11 @@ This is a basic desktop app that wraps around the official remote hosted [Desmos
 
 You will need internet access since the API is not installed locally.
 
-# Install
+# Install (Direct)
 
 Go to releases and install the latest version for your architecture (x64 or arm64).
 
-# Install(Manual)
+# Install (Manual)
 
 Clone the repository 
 
@@ -26,6 +26,14 @@ Install npm dependencies
 
 ```bash
 npm install 
+```
+
+Run the build step
+
+```bash
+make build 
+#or 
+npm run build
 ```
 
 Package the app (x64)
@@ -60,6 +68,14 @@ Install npm dependencies
 
 ```bash
 npm install 
+```
+
+Run the build step
+
+```bash
+make build 
+#or 
+npm run build
 ```
 
 Run Electron on root
