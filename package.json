@@ -3,7 +3,7 @@
   "name": "desmos-desktop",
   "version": "1.0.0",
   "description": "",
-  "main": "build/main.js",
+  "main": "build/src/main.js",
   "scripts": {
     "build": "npx tsc --build --clean && npx tsc",
     "electron": "electron .",
