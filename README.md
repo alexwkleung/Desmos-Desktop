@@ -6,9 +6,9 @@
 
 ⚠️ **This is not an official desktop app for Desmos.**
 
-This is a basic desktop app that wraps around the official remote hosted [Desmos API](https://www.desmos.com/api/v1.7/docs).
+This is a basic desktop app that wraps around the official remote hosted [Desmos API](https://www.desmos.com/api/v1.7/docs). You will need internet access since the API is not installed locally.
 
-You will need internet access since the API is not installed locally.
+Enjoy using Desmos as a standalone desktop app. There is virtually no difference between this and the website since they both use the same API to power the graphing calculator. 
 
 # Install (Direct)
 
