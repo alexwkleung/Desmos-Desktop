@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/Platforms-MacOS-lightgrey) ![](https://img.shields.io/badge/Architecture-x64%20%7C%20arm64-lightgrey)
 
+![](img/example.png)
+
 ⚠️ **This is not an official desktop app for Desmos.**
 
 This is a basic desktop app that wraps around the official remote hosted [Desmos API](https://www.desmos.com/api/v1.7/docs).
