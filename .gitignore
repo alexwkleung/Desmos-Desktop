@@ -1,0 +1,7 @@
+.DS_STORE
+node_modules
+build
+Desmos Desktop-darwin-x64
+desmos-desktop-x64.dmg
+Desmos Desktop-darwin-arm64
+desmos-desktop-arm64.dmg
