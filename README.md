@@ -14,6 +14,7 @@ Enjoy using Desmos as a standalone desktop app. There is virtually no difference
 
 - Desmos API 
 - Electron 
+- Icon: Twemoji 14.0 - Chart Increasing 
 
 # Install (Direct)
 
