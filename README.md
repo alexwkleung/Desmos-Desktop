@@ -12,7 +12,7 @@ You will need internet access since the API is not installed locally.
 
 Go to releases and install the latest version for your architecture (x64 or arm64).
 
-# Setup (Manual)
+# Install(Manual)
 
 Clone the repository 
 
