@@ -8,8 +8,6 @@
 
 This is a basic desktop app that wraps around the [Desmos API](https://www.desmos.com/api/v1.7/docs). The API is remotely fetched, so you'll need internet access.
 
-Enjoy using Desmos as a standalone desktop app.
-
 **Created with:**
 
 - Desmos API 
